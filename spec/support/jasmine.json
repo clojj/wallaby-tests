@@ -1,0 +1,9 @@
+{
+    "spec_dir": "test",
+    "spec_files": [
+        "lexerSpec.js",
+        "calculatorSpec.js"
+    ],
+    "helpers": [
+    ]
+}
